@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1746372773 source:c:\users\gabbi\documents\gabbicodeblocks\studycore\main.cpp
+	<iostream>
+	"functionDeclarations.h"
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<limits>
+
+1746458201 c:\users\gabbi\documents\gabbicodeblocks\studycore\functiondeclarations.h
+	<fstream>
+	<vector>
+
+1746459959 source:c:\users\gabbi\documents\gabbicodeblocks\studycore\functiondefinitions.cpp
+	<iostream>
+	"functionDeclarations.h"
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<limits>
+	<vector>
+	<direct.h>
+	<map>
+	<filesystem>
+
